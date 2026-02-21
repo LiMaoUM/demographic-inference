@@ -1,0 +1,19 @@
+# Demographic Inference - Requirements
+
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# Training & Fine-tuning
+wandb>=0.14.0
+trl>=0.4.0
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+peft>=0.4.0
+bitsandbytes>=0.39.0
+
+# Utilities
+tqdm>=4.65.0
