@@ -326,12 +326,12 @@ Core dependencies (see `pyproject.toml` for complete list):
 
 ## License
 
-[Specify your license here]
+
 
 ## Contributing
 
-[Contribution guidelines]
+
 
 ## Citation
 
-[Citation information if applicable]
+
